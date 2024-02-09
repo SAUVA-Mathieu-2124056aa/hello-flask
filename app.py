@@ -7,5 +7,5 @@ def hello_world():
     return 'Hello, World!'
 
 @app.route('/Lenny')
-def hello_world():
+def hello_lenny():
     return 'Hello, Lenny!'
